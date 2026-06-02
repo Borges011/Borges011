@@ -1,11 +1,11 @@
 .
 # Henrique Borges – Estudante de Informática para Internet
 
-## Sobre Mim
+## Sobre Mim, gostos e interesses
 
-Oi! Meu nome é Henrique Borges, tenho 15 anos e sou estudante do curso de Informática para Internet. Nesse curso estou aprendendo várias coisas relacionadas a design, programação, tecnologia, peças de computador e outras áreas importantes da informática.
-Meu objetivo é criar meus próprios projetos, aprender cada vez mais sobre tecnologia e me preparar para o mercado de trabalho. Também quero adquirir conhecimento suficiente para conseguir resolver problemas sozinho e me tornar mais independente na área.
-Gosto bastante de mexer em computadores, jogar jogos online e jogar futebol. Escolhi esse curso porque quero me tornar mais capacitado, desenvolver novas habilidades e aumentar meus conhecimentos para o futuro.
+Oi! Meu nome é Henrique Borges, tenho 15 anos e sou estudante do curso de Informática para Internet. Nesse curso, estou aprendendo um pouco de tudo sobre tecnologia, como programação, design, informática e também sobre computadores e suas peças. Quero aprender bastante para conseguir criar meus próprios projetos e entender melhor como as coisas funcionam na área da tecnologia.
+Também quero ficar mais independente para resolver problemas sozinho e ganhar mais experiência. Eu gosto muito de mexer no computador, jogar jogos online e jogar futebol.
+Escolhi esse curso porque acho a área de tecnologia muito interessante e quero aprender coisas novas que possam me ajudar no futuro, tanto nos estudos quanto no trabalho.
 
 ## Tecnologias que Estou Aprendendo:
 
